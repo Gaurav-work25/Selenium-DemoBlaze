@@ -1,2 +1,13 @@
 /target/
 /run.bat/
+# TestNG reports
+test-output/
+
+# Allure reports
+allure-results/
+allure-report/
+
+# IntelliJ files (optional)
+.idea/
+*.iml
+
