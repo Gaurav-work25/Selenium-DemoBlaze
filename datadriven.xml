@@ -7,7 +7,7 @@
   <test thread-count="5" name="DataDrivenTest">
 	<parameter name="browser" value="chrome"/>
     <classes>
-     <class name="testCases.TC_004a_DataDrivenLogin2"/>
+     <class name="testCases.TC_004_DataDrivenLogin"/>
     </classes>
   </test> <!-- DataDrivenTest -->
 </suite> <!-- DemoBlazeSuite -->

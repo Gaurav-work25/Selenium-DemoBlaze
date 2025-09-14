@@ -13,7 +13,7 @@ import pageObjects.HomePageObjects;
 import pageObjects.LoginPageObjects;
 import testBase.BaseTestClass;
 
-public class TC_004a_DataDrivenLogin2 extends BaseTestClass {
+public class TC_004_DataDrivenLogin extends BaseTestClass {
 	
 	String act_result;
 	Alert al2;
